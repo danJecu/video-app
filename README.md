@@ -4,5 +4,8 @@
 A light version of Youtube.
 
 ## Motivation
-I build this project in order to familiarize myself with React, API and Semantic UI.
+I build this project in order to familiarize myself with:
+     - React
+     - API requests using Axios
+     - Semantic UI for styling.
 
